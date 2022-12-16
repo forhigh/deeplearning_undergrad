@@ -3,6 +3,7 @@
 
 ## Deep Learning, TensorFlow and Google CoLab
 <li> https://deeplearningzerotoall.github.io/season2/ </li>
+<li> https://cs230.stanford.edu/ </li>
 <li> http://cs231n.stanford.edu/ </li>
 <li> https://www.tensorflow.org/ </li>
 <li> https://colab.research.google.com/ </li>
