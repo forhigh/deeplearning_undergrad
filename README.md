@@ -2,6 +2,7 @@
 <p dir="auto"> "머신러닝과 지반설계" 수업을 위한 웹사이트입니다. </p>
 
 ## Deep Learning, TensorFlow and Google CoLab
+<li> https://github.com/taehojo/deeplearning </li>
 <li> https://deeplearningzerotoall.github.io/season2/ </li>
 <li> https://cs230.stanford.edu/ </li>
 <li> http://cs231n.stanford.edu/ </li>
